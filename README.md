@@ -6,4 +6,4 @@ versrion 2.3 actualizada el 16 de Marzo.
 
 ### Acceeso a repositorio desplegado.
 
-https://freecoders-frontactualizado-v3.netlify.app/
+[https://freecoders-frontactualizado-v3.netlify.app/](https://freecoders.netlify.app/home)
